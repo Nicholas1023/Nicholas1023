@@ -11,7 +11,7 @@ I'm a secondary school student from Singapore, and I love programming, creating 
 
 
 ## ⌨ What I am Working on
-Recently, I have been working on my [website](https://nicholas1023.github.io) and creating a simple bootloader while learning more about assembly language!
+Recently, I have been working on a [PCB](https://github.com/Nicholas1023/computer) and creating a OS-like website in HTML.
 
 ## 📊 Statistics
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=583&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
