@@ -12,7 +12,7 @@ I am a student with an interest in web development and hardware design with micr
 ### 🧑‍💻 What I Have Done
 #### ⚡My PCB Name Card
 
-<img width="574" height="285.66" alt="3d-view" src="https://github.com/user-attachments/assets/57310d8f-6e25-42fe-bb36-90bc0b2cdc48">
+<img width="430.5" height="214.25" alt="3d-view" src="https://github.com/user-attachments/assets/57310d8f-6e25-42fe-bb36-90bc0b2cdc48">
 
 #### 🌐 My Personal Website
 
