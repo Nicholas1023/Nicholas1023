@@ -18,4 +18,4 @@ I am a student with an interest in web development and hardware design with micr
 
 <a href="https://nicholas1023.github.io">https://nicholas1023.github.io</a>
 
-📫 Reach me via email at <a href="mailto:nicholas_lim@bbsshack.club">nicholas_lim@bbsshack.club</a>!
+<b>📫 Reach me via email at <a href="mailto:nicholas_lim@bbsshack.club">nicholas_lim@bbsshack.club</a>!</b>
