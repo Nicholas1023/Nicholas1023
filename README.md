@@ -1,6 +1,6 @@
 # Hi there, I'm Nicholas! 👋
 
-I am a student with an interest in web development and hardware design with microcontrollers!
+A secondary school student with an interest in web development and hardware design with microcontrollers!
 
 ### 💻 Languages & Tools I Use
 ![Embedded C++ for Microcontrollers](https://img.shields.io/badge/Embedded_C%2b%2b_%28Microcontrollers%29-lightblue?logo=C%2b%2b&style=for-the-badge&logoColor=00599C)
