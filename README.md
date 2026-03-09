@@ -4,6 +4,7 @@ A secondary school student with an interest in web development and hardware desi
 
 ### 💻 Languages & Tools I Use
 ![Embedded C++ for Microcontrollers](https://img.shields.io/badge/Embedded_C%2b%2b_%28Microcontrollers%29-lightblue?logo=C%2b%2b&style=for-the-badge&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-lightblue?logo=Python&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-lightsalmon?logo=html5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-lavender?logo=css&style=for-the-badge&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-lightyellow?logo=JavaScript&style=for-the-badge)
