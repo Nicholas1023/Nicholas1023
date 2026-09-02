@@ -11,12 +11,27 @@ A secondary school student with an interest in web development and hardware desi
 ![KiCad](https://img.shields.io/badge/KiCad-lightblue?logo=kicad&style=for-the-badge&logoColor=314CB0)
 
 ### 🧑‍💻 What I Have Done
-#### ⚡My PCB Name Card
+#### ⚡Macro Microcontroller 2
+A macropad + microcontroller development board that controls GPIO pin output using keys with a custom BASIC interpreter firmware. <a href="https://stardance.hackclub.com/projects/21502">https://stardance.hackclub.com/projects/21502</a>
 
-<img width="430.5" height="214.25" alt="3d-view" src="https://github.com/user-attachments/assets/57310d8f-6e25-42fe-bb36-90bc0b2cdc48">
+<img src="https://nicholaslim.me/macro-microcontroller-2/assets/macro-microcontroller-2-transparent.png" width="75%" height="75%">
+
+#### 🌐 My New Tab Page
+This is my custom new tab, with a simple and minimalistic page, search engine selection and URL pin creation. <a href="https://stardance.hackclub.com/projects/36239">https://stardance.hackclub.com/projects/36239</a>
+
+<img width="75%" height="75%" alt="image" src="https://github.com/user-attachments/assets/22dedd7f-87de-4c41-b5d2-0522fc24575b">
 
 #### 🌐 My Personal Website
 
-<a href="https://nicholas1023.github.io">https://nicholas1023.github.io</a>
+<a href="https://nicholaslim.me">https://nicholaslim.me</a>
+
+#### Hackatime Activity
+<a href="https://heatmap.shymike.dev?id=583&timezone=Asia%2FSingapore&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=583&timezone=Asia%2FSingapore&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=583&timezone=Asia%2FSingapore&labels=true&theme=light">
+    </picture>
+</a>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=583&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 
 <b>📫 Reach me via email at <a href="mailto:nicholas_lim@bbsshack.club">nicholas_lim@bbsshack.club</a>!</b>
