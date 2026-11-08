@@ -12,7 +12,8 @@ A secondary school student with an interest in web development and hardware desi
 
 ### 🧑‍💻 What I Have Done
 #### ⚡Macro Microcontroller 2
-A macropad + microcontroller development board that controls GPIO pin output using keys with a custom BASIC interpreter firmware. <a href="https://stardance.hackclub.com/projects/21502">https://stardance.hackclub.com/projects/21502</a>
+A microcontroller development board with an integrated macropad that lets you control GPIOs with keyboard keys on a single PCB, plus a custom BASIC interpreter and disk operating system.
+<a href="https://stardance.hackclub.com/projects/21502">https://stardance.hackclub.com/projects/21502</a>
 
 <img src="https://nicholaslim.me/macro-microcontroller-2/assets/macro-microcontroller-2-transparent.png" width="75%" height="75%">
 
